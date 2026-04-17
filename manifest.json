@@ -1,0 +1,21 @@
+{
+  "name": "Cantoral",
+  "short_name": "Cantoral",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2B423D",
+  "theme_color": "#2B423D",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjFxMLDInVrrVVdp2aRKX63dBrsUCeVKErzP4LDXng-y0B4fyzxT6eFAJBsJ1kl6pDGPLGKCC1zB5VmUM0u1AEHIUwwfLlCrOsV_F2dl38H4BRLHJ4XT2qfMk6mIUaH1g3TDV7AhzEUfL2fmJHQuIISuJO601yeDvPAgQIdm7GlcPS-nkLsBNuLjwjpV--L",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhne4Pu_2rMWpZhuG94Ai_5TOE-FWP5FIC9Hq9Ow4AnguwepAa53nSiU7vhBz2GM8OtZ0D-_CBUY_d-58r_IEbQN4fk2yXBg0Egn18CtP4XoD-wlBOujvnEaJgEsu-fhEyR-gfXWwkhQg-IppxfLCQEdhxYMUzKBUqcJV_va78XgOkXapcFxPgX7YF8w5j1",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
