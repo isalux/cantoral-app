@@ -3,8 +3,8 @@
   "short_name": "Cantoral",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#006D77",
-  "theme_color": "#006D77",
+  "background_color": "#005E67",
+  "theme_color": "#005E67",
   "orientation": "portrait",
   "icons": [
     {
