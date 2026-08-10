@@ -1,6 +1,7 @@
 {
   "name": "Cantoral",
   "short_name": "Cantoral",
+  "id": "https://vamoscantando.blogspot.com/p/inicio.html",
   "start_url": "https://vamoscantando.blogspot.com/p/inicio.html",
   "display": "standalone",
   "background_color": "#005E67",
