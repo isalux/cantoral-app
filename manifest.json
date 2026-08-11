@@ -1,11 +1,13 @@
 {
-  "name": "Cantoral",
-  "short_name": "Cantoral",
- "start_url": "/",
-  "display": "standalone",
-  "background_color": "#444",
-  "theme_color": "#444",
-  "orientation": "portrait",
+ "name": "Cantoral",
+"short_name": "Cantoral",
+"id": "https://vamoscantando.blogspot.com/",
+"start_url": "https://vamoscantando.blogspot.com/p/inicio.html",
+"scope": "https://vamoscantando.blogspot.com/",
+"display": "standalone",
+"background_color": "#005E67",
+"theme_color": "#005E67",
+"orientation": "portrait",
   "icons": [
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzesWt1m72YGYoLs2xKe-0uprSvfohK1elbRspAHJncjrFHydwjb9APwTPwlifeQ5tjyIbVYoF9RIiBr8sj7s6HFCwLsXToswvIQmwhAaorg0sf_h0x1JP8ayHNdidax84DTPhkfyyzjCnsAyUt1kTNIQ8h9uurgQwGRNGV0tcQ6kAM8utEwfnAuGqJzWx?v=2",
