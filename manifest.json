@@ -4,7 +4,7 @@
   "id": "/",
   "start_url": "/p/inicio.html",
   "scope": "/",
-  "display": "minimal-ui",
+  "display": "standalone",
   "background_color": "#005E67",
   "theme_color": "#005E67",
   "orientation": "portrait",
