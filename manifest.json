@@ -1,9 +1,9 @@
 {
-"name": "Cantoral",
+  "name": "Cantoral",
   "short_name": "Cantoral",
-  "id": "/",
-  "start_url": "/p/inicio.html",
-  "scope": "/",
+  "id": "https://vamoscantando.blogspot.com/",
+  "start_url": "https://vamoscantando.blogspot.com/p/inicio.html",
+  "scope": "https://vamoscantando.blogspot.com/",
   "display": "standalone",
   "background_color": "#005E67",
   "theme_color": "#005E67",
